@@ -1,0 +1,1 @@
+<p>Google Round A 2022 - Kick Start 2022 "Speed Typing" <a href='https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7021#problem'>Speed Typing Problem</a></p>
